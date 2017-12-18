@@ -7,4 +7,7 @@ The log of my #100DaysOfCode challenge. Started on [December 17, Sunday, 2017].
 ### R1D1 
 Building a Google Assistant client using GTK+Python. Polished an electron app (Calculator)
 
+### R1D2
+Built an arduino sketch + python script to trigger a webhook on the press of a button using serial communication.
+
 
