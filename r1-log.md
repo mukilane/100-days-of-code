@@ -10,4 +10,7 @@ Building a Google Assistant client using GTK+Python. Polished an electron app (C
 ### R1D2
 Built an arduino sketch + python script to trigger a webhook on the press of a button using serial communication.
 
+### R1D3
+Built a simple interface for displaying the orientation of the Accelerometer ADXL335 through Processing.
+
 

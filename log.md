@@ -20,4 +20,13 @@
 1. [IFTTT Recipe](https://ifttt.com/applets/67951254d-if-maker-event-arduino-then-push-a-note)
 2. [Sketch](https://github.com/mukilane/projects/arduino/webhooks)
 
+### Day 3: December 19, Tuesday
+
+**Today's Progress**: Made a simple interface for getting the orientation of the Accelerometer (ADXL335) in Text through Processing.
+ 
+**Thoughts** Interfacing Arduino and Processing is easy and fun. Working with the drawing APIS of Processing was a learning today.
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/projects/arduino/processing)
+
 
