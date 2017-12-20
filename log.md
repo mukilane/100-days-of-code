@@ -29,4 +29,12 @@
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/projects/arduino/processing)
 
+### Day 4: December 29, Wednesday
+
+**Today's Progress**: Made a level guage using Arduino + ADXL335 Accelerometer and display the angle using Processing.
+ 
+**Thoughts** Working with processing is always fun.
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/projects/arduino/level)
 
