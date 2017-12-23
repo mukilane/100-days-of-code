@@ -29,7 +29,7 @@
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/projects/arduino/processing)
 
-### Day 4: December 29, Wednesday
+### Day 4: December 20, Wednesday
 
 **Today's Progress**: Made a level guage using Arduino + ADXL335 Accelerometer and display the angle using Processing.
  
@@ -37,4 +37,14 @@
 
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/projects/arduino/level)
+
+### Day 5: December 23, Saturday
+
+**Today's Progress**: Updated the Assistant SDK and added Pubsub and Cloud functions for Jarvis
+ 
+**Thoughts** PubSub is a new exciting frontier with great potential for IOT
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/jarvis)
+
 

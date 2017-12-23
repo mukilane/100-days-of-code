@@ -16,4 +16,7 @@ Built a simple interface for displaying the orientation of the Accelerometer ADX
 ### R1D4
 Built a level guage using Arduino and ADXL335 accelerometer with Processing for displaying the angle.
 
+### R1D5
+Updated Jarvis for the new Assistant SDK along with PubSub and Cloud Functions
+
 
