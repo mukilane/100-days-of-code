@@ -47,4 +47,13 @@
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/jarvis)
 
+### Day 6: December 24, Sunday
+
+**Today's Progress**: Started doing a Acclerometer powered mouse with Arduino.
+ 
+**Thoughts** Though of mimicking a Wii controller using my accelerometer
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/projects/arduino/mouse)
+
 

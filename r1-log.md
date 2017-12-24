@@ -19,4 +19,6 @@ Built a level guage using Arduino and ADXL335 accelerometer with Processing for 
 ### R1D5
 Updated Jarvis for the new Assistant SDK along with PubSub and Cloud Functions
 
+### R1D6
+Started developing an accelerometer powered mouse using Arduino
 
