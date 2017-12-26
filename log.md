@@ -56,4 +56,13 @@
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/projects/arduino/mouse)
 
+### Day 6: December 26, Tuesday
+
+**Today's Progress**: Created a new timeline log for this challenge on my blog.
+ 
+**Thoughts** Wanted my log to be more visually appealing and interactive.
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/mukilane.github.io)
+
 

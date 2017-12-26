@@ -22,3 +22,6 @@ Updated Jarvis for the new Assistant SDK along with PubSub and Cloud Functions
 ### R1D6
 Started developing an accelerometer powered mouse using Arduino
 
+### R1D7
+Created a new webpage with a timeline of my 100daysofcode log.
+
