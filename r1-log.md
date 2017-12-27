@@ -25,3 +25,6 @@ Started developing an accelerometer powered mouse using Arduino
 ### R1D7
 Created a new webpage with a timeline of my 100daysofcode log.
 
+### R1D8
+Worked on Firebase Firestore & Cloud Messaging for incorporating Push notifications support for my blog.
+

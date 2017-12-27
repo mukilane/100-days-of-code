@@ -56,7 +56,7 @@
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/projects/arduino/mouse)
 
-### Day 6: December 26, Tuesday
+### Day 7: December 26, Tuesday
 
 **Today's Progress**: Created a new timeline log for this challenge on my blog.
  
@@ -64,5 +64,14 @@
 
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/mukilane.github.io)
+
+### Day 8: December 27, Wednesday
+
+**Today's Progress**: Worked on push notifications, Firebase cloudstore, FCM and google analytics for my blog.
+ 
+**Thoughts** Working with Firestore was easy. Push notifications is one of the important features for my blog that I wanted to do. Made good progress today
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/mukilane.github.io/)
 
 
