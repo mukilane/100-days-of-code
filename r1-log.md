@@ -28,3 +28,6 @@ Created a new webpage with a timeline of my 100daysofcode log.
 ### R1D8
 Worked on Firebase Firestore & Cloud Messaging for incorporating Push notifications support for my blog.
 
+### R1D9
+Implemented Push notifications. Implemented a day picker for the log.
+

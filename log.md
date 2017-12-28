@@ -74,4 +74,13 @@
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/mukilane.github.io/)
 
+### Day 9: December 28, Wednesday
+
+**Today's Progress**: Implemented Push notifications. Implemented a day picker for the log.
+ 
+**Thoughts**  Finally push notification support is done. Cloud Functions makes it easy to set up the backend needed to push the notifications.
+
+**Link(s) to work**
+1. [Sketches](https://github.com/mukilane/mukilane.github.io/)
+
 
