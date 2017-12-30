@@ -31,3 +31,8 @@ Worked on Firebase Firestore & Cloud Messaging for incorporating Push notificati
 ### R1D9
 Implemented Push notifications. Implemented a day picker for the log.
 
+### R1D10
+Working on Firebase Cloud functions to do backend services for my static blog.
+
+### R1D11
+Created a simple messaging service for my devices using Google Pub/Sub.
