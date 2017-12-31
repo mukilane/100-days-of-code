@@ -36,3 +36,6 @@ Working on Firebase Cloud functions to do backend services for my static blog.
 
 ### R1D11
 Created a simple messaging service for my devices using Google Pub/Sub.
+
+### R1D12
+Integrated a Dialogflow assistant in my blog, for queries and navigation.

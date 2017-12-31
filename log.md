@@ -63,7 +63,7 @@
 **Thoughts** Wanted my log to be more visually appealing and interactive.
 
 **Link(s) to work**
-1. [Sketches](https://github.com/mukilane/mukilane.github.io)
+1. [Repo](https://github.com/mukilane/mukilane.github.io)
 
 ### Day 8: December 27, Wednesday
 
@@ -72,33 +72,42 @@
 **Thoughts** Working with Firestore was easy. Push notifications is one of the important features for my blog that I wanted to do. Made good progress today
 
 **Link(s) to work**
-1. [Sketches](https://github.com/mukilane/mukilane.github.io/)
+1. [Repo](https://github.com/mukilane/mukilane.github.io/)
 
-### Day 9: December 28, Wednesday
+### Day 9: December 28, Thursday
 
 **Today's Progress**: Implemented Push notifications. Implemented a day picker for the log.
  
 **Thoughts**  Finally push notification support is done. Cloud Functions makes it easy to set up the backend needed to push the notifications.
 
 **Link(s) to work**
-1. [Sketches](https://github.com/mukilane/mukilane.github.io/)
+1. [Repo](https://github.com/mukilane/mukilane.github.io/)
 
-### Day 10: December 29, Thursday
+### Day 10: December 29, Friday
 
 **Today's Progress**: Working on Firebase Cloud functions to do backend services for my static blog.
  
 **Thoughts**  Cloud functions has got more potential to build a barebone backend in the cloud.
 
 **Link(s) to work**
-1. [Sketches](https://github.com/mukilane/mukilane.github.io/)
+1. [Repo](https://github.com/mukilane/mukilane.github.io/)
 
-### Day 11: December 39, Friday
+### Day 11: December 30, Saturday
 
 **Today's Progress**: Created a simple communication tool between my devices using Google Pub/Sub
  
 **Thoughts**  Google Pub/Sub provides a low latency, simple service to push and receive messages between devices. I am going to use it in my IOT projects
 
 **Link(s) to work**
-1. [Sketches](https://github.com/mukilane/projects/tree/master/google/pubsub/)
+1. [Repo](https://github.com/mukilane/projects/tree/master/google/pubsub/)
+
+### Day 12: December 31, Sunday
+
+**Today's Progress**: Integrated a Dialogflow Agent aka a digital assistant in my blog
+ 
+**Thoughts**  Dialogflow provides an easy way to create smart assistant interfaces and easily APIs to integrate with the applications. SmallTalk is very easy to get started and gives the assistant a character.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io)
 
 
