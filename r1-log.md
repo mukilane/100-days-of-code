@@ -39,3 +39,6 @@ Created a simple messaging service for my devices using Google Pub/Sub.
 
 ### R1D12
 Integrated a Dialogflow assistant in my blog, for queries and navigation.
+
+### R1D13
+Improved the navigation flow of the blog using dialogflow agent and worked on structuring the AngularJS controllers.

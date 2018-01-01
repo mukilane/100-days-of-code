@@ -110,4 +110,13 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io)
 
+### Day 13: January 1, Monday
+
+**Today's Progress**: Improved the navigation flow of my blog, using the Dialogflow agent.
+ 
+**Thoughts**  New Year !! Implemeted a new practice of separating controller files in AngularJs. Also worked on the assistant navigation for my blog.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io)
+
 
