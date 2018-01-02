@@ -42,3 +42,6 @@ Integrated a Dialogflow assistant in my blog, for queries and navigation.
 
 ### R1D13
 Improved the navigation flow of the blog using dialogflow agent and worked on structuring the AngularJS controllers.
+
+### R1D14
+Got started with the Go language, and the Gobot.io framework for robotics and IOT

@@ -119,4 +119,13 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io)
 
+### Day 14: January 2, Tuesday
+
+**Today's Progress**: Got started with the Go language, and the Gobot.io framework for robotics and IOT
+ 
+**Thoughts**  Go is an exciting new language, mostly aimed at performance. So, I just started with it in my field of IOT/Robotics using the Gobot.io framework.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/go)
+
 
