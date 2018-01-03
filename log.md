@@ -128,4 +128,12 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/go)
 
+### Day 15: January 3, Wednesday
+
+**Today's Progress**: Working on Google Maps API with Python
+ 
+**Thoughts**  Started working with Google Maps API for an academic project with Python.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)
 

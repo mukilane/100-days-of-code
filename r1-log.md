@@ -45,3 +45,6 @@ Improved the navigation flow of the blog using dialogflow agent and worked on st
 
 ### R1D14
 Got started with the Go language, and the Gobot.io framework for robotics and IOT
+
+### R1D15
+Working on Google Maps API with Python
