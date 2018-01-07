@@ -137,3 +137,22 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/)
 
+### Day 16: January 6, Saturday
+
+**Today's Progress**: Working of bundling the dependencies of my blog using Browserify.
+ 
+**Thoughts**  Bundling up the dependencies will reduce the requests and makes my code clean and simple.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io)
+
+### Day 17: January 7, Sunday
+
+**Today's Progress**: Completed Browserify-ing my blog.
+ 
+**Thoughts**  The code is now all bundled up into a nice single file. The only issue was the non-CommonJs libraries that Browserify does not support, which I just concated with the bundle.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io)
+
+

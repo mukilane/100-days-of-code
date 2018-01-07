@@ -48,3 +48,10 @@ Got started with the Go language, and the Gobot.io framework for robotics and IO
 
 ### R1D15
 Working on Google Maps API with Python
+
+### R1D16
+Started working on Browserify for the blog.
+
+### R1D17
+Completed browserify-ing my blog by bundling all dependencies into one single file.
+
