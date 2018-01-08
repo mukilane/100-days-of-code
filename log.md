@@ -155,4 +155,11 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io)
 
+### Day 18: January 8, Monday
 
+**Today's Progress**: Started working with the MQTT protocol for IOT with Adafruit IO.
+ 
+**Thoughts**  MQTT is the standard recommended protocol for IOT communication. It is simple. The Adafruit IO platform is an easy tool to get started with MQTT and IOT.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/projects/tree/master/mqtt/)

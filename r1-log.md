@@ -55,3 +55,6 @@ Started working on Browserify for the blog.
 ### R1D17
 Completed browserify-ing my blog by bundling all dependencies into one single file.
 
+### R1D18
+Started working with the MQTT protocol for IOT with Adafruit IO.
+
