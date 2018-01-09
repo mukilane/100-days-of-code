@@ -58,3 +58,6 @@ Completed browserify-ing my blog by bundling all dependencies into one single fi
 ### R1D18
 Started working with the MQTT protocol for IOT with Adafruit IO.
 
+### R1D19
+Working on MQTT + Raspberry Pi + Adafruit IO
+

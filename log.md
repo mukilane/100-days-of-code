@@ -163,3 +163,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/projects/tree/master/mqtt/)
+
+### Day 19: January 9, Tuesday
+
+**Today's Progress**: Working on MQTT + Raspberry Pi + Adafruit IO
+ 
+**Thoughts**  MQTT is the standard recommended protocol for IOT communication. It is simple. The Adafruit IO platform is an easy tool to get started with MQTT and IOT.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/projects/tree/master/mqtt/)
