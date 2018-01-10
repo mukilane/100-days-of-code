@@ -61,3 +61,5 @@ Started working with the MQTT protocol for IOT with Adafruit IO.
 ### R1D19
 Working on MQTT + Raspberry Pi + Adafruit IO
 
+### R1D20
+Worked on Liquid layout and small changes for my blog.

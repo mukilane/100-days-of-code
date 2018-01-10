@@ -172,3 +172,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/projects/tree/master/mqtt/)
+
+### Day 20: January 10, Wednesday
+
+**Today's Progress**: Worked on Liquid layout and small changes for my blog.
+ 
+**Thoughts**  Also learned more about MQTT.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io)
