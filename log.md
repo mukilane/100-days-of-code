@@ -181,3 +181,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io)
+
+### Day 21: January 11, Thursday
+
+**Today's Progress**: Exploring Bluetooth Low Energy (and Beacon) with RPi using Gobot.io
+ 
+**Thoughts**  BLE beacon technology offers a low power simple information broadcast method which I plan to use in my future projects.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/go/)

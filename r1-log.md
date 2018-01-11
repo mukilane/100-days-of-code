@@ -63,3 +63,6 @@ Working on MQTT + Raspberry Pi + Adafruit IO
 
 ### R1D20
 Worked on Liquid layout and small changes for my blog.
+
+### R1D21
+Exploring Bluetooth Low Energy (and Beacon) with RPi using Gobot.io
