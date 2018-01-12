@@ -190,3 +190,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/go/)
+
+### Day 22: January 12, Friday
+
+**Today's Progress**: Worked on Dialogflow and blog navigation.
+ 
+**Thoughts**  Added more intents for more use cases such as compliments, greetings, etc.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io/)

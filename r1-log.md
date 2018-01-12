@@ -66,3 +66,6 @@ Worked on Liquid layout and small changes for my blog.
 
 ### R1D21
 Exploring Bluetooth Low Energy (and Beacon) with RPi using Gobot.io
+
+### R1D22
+Worked on Dialogflow and blog navigation.
