@@ -51,7 +51,7 @@
 
 **Today's Progress**: Started doing a Acclerometer powered mouse with Arduino.
  
-**Thoughts** Though of mimicking a Wii controller using my accelerometer
+**Thoughts** Thought of mimicking a Wii controller using my accelerometer
 
 **Link(s) to work**
 1. [Sketches](https://github.com/mukilane/projects/arduino/mouse)
@@ -196,6 +196,15 @@
 **Today's Progress**: Worked on Dialogflow and blog navigation.
  
 **Thoughts**  Added more intents for more use cases such as compliments, greetings, etc.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/mukilane.github.io/)
+
+### Day 22: January 12, Friday
+
+**Today's Progress**: Worked on Gulp tasks and started learning FreeRTOS
+ 
+**Thoughts**  Made some Gulp tasks to offload some of the chores of building my blog and also flattened the root directory of the blog.
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io/)
