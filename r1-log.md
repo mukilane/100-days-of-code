@@ -72,3 +72,6 @@ Worked on Dialogflow and blog navigation
 
 ### R1D23
 Worked on Gulp tasks and started learning FreeRTOS
+
+### R1D24
+Worked on Google Assistant SDK for device actions

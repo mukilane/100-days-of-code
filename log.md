@@ -200,7 +200,7 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io/)
 
-### Day 22: January 12, Friday
+### Day 23: January 12, Friday
 
 **Today's Progress**: Worked on Gulp tasks and started learning FreeRTOS
  
@@ -208,3 +208,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io/)
+
+### Day 24: January 13, Friday
+
+**Today's Progress**: Worked on Google Assistant SDK for device actions
+ 
+**Thoughts**  Google Assistant SDK now offers device actions for on-device commands. I am building a personal assistant for my laptop using it.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/jarvis/)
