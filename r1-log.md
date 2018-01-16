@@ -75,3 +75,6 @@ Worked on Gulp tasks and started learning FreeRTOS
 
 ### R1D24
 Worked on Google Assistant SDK for device actions
+
+### R1D25
+Worked on Material Design Components (MDC), Google Maps Javascript API and Firebase Firestore.

@@ -217,3 +217,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/jarvis/)
+
+### Day 25: January 15, Friday
+
+**Today's Progress**: Worked on Material Design Components (MDC), Google Maps Javascript API and Firebase Firestore.
+ 
+**Thoughts**  Created a simple Location logger app using MDC and Google Maps with Firebase Firestore.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/sws-tracker/)
