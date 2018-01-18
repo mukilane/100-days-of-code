@@ -200,7 +200,7 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io/)
 
-### Day 23: January 12, Friday
+### Day 23: January 13, Saturday
 
 **Today's Progress**: Worked on Gulp tasks and started learning FreeRTOS
  
@@ -209,7 +209,7 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/mukilane.github.io/)
 
-### Day 24: January 13, Friday
+### Day 24: January 14, Sunday
 
 **Today's Progress**: Worked on Google Assistant SDK for device actions
  
@@ -218,7 +218,7 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/jarvis/)
 
-### Day 25: January 15, Friday
+### Day 25: January 15, Monday
 
 **Today's Progress**: Worked on Material Design Components (MDC), Google Maps Javascript API and Firebase Firestore.
  
@@ -226,3 +226,21 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/sws-tracker/)
+
+### Day 26: January 17, Wednesday
+
+**Today's Progress**: Worked on Dialogflow and Google Assistant SDK (GRPC).
+ 
+**Thoughts**  Google Assistant SDK Service through GRPC provides more ways to interact with the assistant and gives more flexibility.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)
+
+### Day 27: January 18, Thursday
+
+**Today's Progress**: Worked on Google Assistant SDK with GRPC.
+ 
+**Thoughts**  Google Assistant SDK Service through GRPC provides more ways to interact with the assistant and gives more flexibility.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)

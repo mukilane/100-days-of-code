@@ -78,3 +78,9 @@ Worked on Google Assistant SDK for device actions
 
 ### R1D25
 Worked on Material Design Components (MDC), Google Maps Javascript API and Firebase Firestore.
+
+### R1D26
+Worked on Dialogflow and Google Assistant SDK (GRPC).
+
+### R1D27
+Worked on Google Assistant SDK with GRPC.
