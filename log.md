@@ -244,3 +244,12 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/)
+
+### Day 28: January 21, Sunday
+
+**Today's Progress**: Worked on Google Maps API and Google Assistant SDK
+ 
+**Thoughts**  Working on integrating the two services together for a project.
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)

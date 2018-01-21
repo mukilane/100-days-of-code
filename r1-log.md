@@ -84,3 +84,6 @@ Worked on Dialogflow and Google Assistant SDK (GRPC).
 
 ### R1D27
 Worked on Google Assistant SDK with GRPC.
+
+### R1D28
+Worked on Google Maps API and Google Assistant SDK
