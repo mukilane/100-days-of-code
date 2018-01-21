@@ -238,7 +238,7 @@
 
 ### Day 27: January 18, Thursday
 
-**Today's Progress**: Worked on Google Assistant SDK with GRPC.
+**Today's Progress**: Worked on Google Assistant SDK with GRPC and Dialogflow
  
 **Thoughts**  Google Assistant SDK Service through GRPC provides more ways to interact with the assistant and gives more flexibility.
 
