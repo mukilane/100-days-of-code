@@ -87,3 +87,6 @@ Worked on Google Assistant SDK with GRPC.
 
 ### R1D28
 Worked on Google Maps API and Google Assistant SDK
+
+### R1D29
+Worked on Google Assistant SDK

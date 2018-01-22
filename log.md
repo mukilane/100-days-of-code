@@ -253,3 +253,13 @@
 
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/)
+
+### Day 29: January 22, Monday
+
+**Today's Progress**: Worked on Google Assistant SDK
+ 
+**Thoughts**  Using Google Assistant for a project
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)
+
