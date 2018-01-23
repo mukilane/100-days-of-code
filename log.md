@@ -263,3 +263,12 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/)
 
+### Day 30: January 23, Tuesday
+
+**Today's Progress**: Still working on Python + Google Assistant + Googel Maps API
+ 
+**Thoughts**  Using Python client of Google Maps API for getting directions and geolocation
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)
+

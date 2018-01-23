@@ -90,3 +90,6 @@ Worked on Google Maps API and Google Assistant SDK
 
 ### R1D29
 Worked on Google Assistant SDK
+
+### R1D30
+Still working on Python + Google Assistant + Googel Maps API
