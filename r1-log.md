@@ -93,3 +93,6 @@ Worked on Google Assistant SDK
 
 ### R1D30
 Still working on Python + Google Assistant + Googel Maps API
+
+### R1D31
+Working on Firebase Admin SDK + Python + Firestore

@@ -272,3 +272,12 @@
 **Link(s) to work**
 1. [Repo](https://github.com/mukilane/)
 
+### Day 31: January 24, Wednesday
+
+**Today's Progress**: Working on Firebase Admin SDK + Python + Firestore
+ 
+**Thoughts**  Using Python client of Firebase Admin SDK for queries the Firestore database
+
+**Link(s) to work**
+1. [Repo](https://github.com/mukilane/)
+
